@@ -1,0 +1,17 @@
+
+{
+  "appId": "com.xhs.test.eva",
+  "asar": true,
+  "productName": "eva-test",
+  "directories": {
+    "output": "dist/test"
+  },
+  "mac": {
+    "target": [
+       {
+          "target": "dmg", 
+          "arch": "x64"
+        }
+    ]
+  }
+}
